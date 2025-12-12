@@ -1,0 +1,16 @@
+[
+    {
+        "title": "Love garden",
+        "author": "Sanoober",
+        "genre": "nil",
+        "year": 1,
+        "read": true
+    },
+    {
+        "title": "love to love",
+        "author": "sanoober",
+        "genre": "go",
+        "year": 2,
+        "read": true
+    }
+]
